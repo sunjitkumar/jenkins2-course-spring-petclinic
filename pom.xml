@@ -6,6 +6,7 @@
     <artifactId>spring-petclinic</artifactId>
     <version>4.2.6-SNAPSHOT</version>
     <!-- test on 05/27 -->
+	    <!-- test on 05/31 -->
     <name>petclinic</name>
     <packaging>war</packaging>
 
